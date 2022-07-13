@@ -6,7 +6,7 @@ Pasa texto a formato binario de manea automática con un solo click
 
 Descripción de Mayama Maicez:
  
-Este proyecto fue hecho con varios scripts y datos de terceros,
+Este proyecto puede contener scripts y datos de terceros,
 No se recomienda para uso profesional, solo se muestra la
 curiosidad de como lograr cosas en Unity 3D,
 Disfruta de este proyecto completo y sus archivos para mejorar
