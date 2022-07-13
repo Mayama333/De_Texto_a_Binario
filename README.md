@@ -2,6 +2,8 @@ Assets Mayama333 GitHub
 Project Details
 Unity 2022.3.3f1
 
+Pasa texto a formato binario de manea automática con un solo click
+
 Descripción de Mayama Maicez:
  
 Este proyecto fue hecho con varios scripts y datos de terceros,
